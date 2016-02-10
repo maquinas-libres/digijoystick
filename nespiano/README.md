@@ -6,3 +6,5 @@ DigiKeyboard.sendKeyStroke(KEY_Q); // presiona la tecla
 DigiKeyboard.delay(1000); // la presiona un segundo
 DigiKeyboard.sendKeyStroke(0); // la libera
 ~~~
+
+![](../img/PianoKeyboard.svg)
