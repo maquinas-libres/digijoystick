@@ -16,9 +16,9 @@
    id="svg3726"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="Nintendo_NES_Diagram.svg"
-   inkscape:export-filename="/home/eduardo/Proyectos/joystick/git/nespiano/Nintendo_NES_Diagram.png"
-   inkscape:export-xdpi="37.259998"
-   inkscape:export-ydpi="37.259998">
+   inkscape:export-filename="Nintendo_NES_Diagram.png"
+   inkscape:export-xdpi="42.580002"
+   inkscape:export-ydpi="42.580002">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -32,13 +32,13 @@
      inkscape:window-height="559"
      id="namedview29"
      showgrid="false"
-     inkscape:zoom="0.22481739"
-     inkscape:cx="556.37682"
-     inkscape:cy="231.98795"
+     inkscape:zoom="0.42060786"
+     inkscape:cx="1055.2288"
+     inkscape:cy="974.81163"
      inkscape:window-x="0"
      inkscape:window-y="20"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg3726"
+     inkscape:current-layer="g3228"
      inkscape:snap-global="true"
      inkscape:snap-bbox="true"
      inkscape:snap-grids="true">
@@ -250,7 +250,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -399,13 +399,13 @@
        id="text3878"
        y="426.36661"
        x="114.76841"
-       style="font-size:39.99999873px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#777777;fill-opacity:1;stroke:#777777;stroke-width:2.0000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Open Sans Light;-inkscape-font-specification:Open Sans Light;font-variant:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill-rule:nonzero;stroke-linecap:butt;stroke-linejoin:miter;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#777777;fill-opacity:1;fill-rule:nonzero;stroke:#777777;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans Light;-inkscape-font-specification:Open Sans Light"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-weight:normal;fill:#777777;fill-opacity:1;stroke:#777777;stroke-width:2.0000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;-inkscape-font-specification:Open Sans Light;font-size:39.99999873px;font-variant:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill-rule:nonzero;stroke-linecap:butt;stroke-linejoin:miter;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans Light"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#777777;fill-opacity:1;fill-rule:nonzero;stroke:#777777;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans Light;-inkscape-font-specification:Open Sans Light"
          y="426.36661"
          x="114.76841"
          id="tspan3880"
-         sodipodi:role="line">DO</tspan></text>
+         sodipodi:role="line">RE</tspan></text>
     <g
        transform="matrix(1.9490067,0,0,1.9490067,23.973023,376.11089)"
        id="g3827">
@@ -718,7 +718,7 @@
        rx="4.3583865" />
     <text
        xml:space="preserve"
-       style="font-size:39.99999873px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#777777;fill-opacity:1;stroke:#777777;stroke-width:2.0000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Open Sans Light;-inkscape-font-specification:Open Sans Light;font-variant:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill-rule:nonzero;stroke-linecap:butt;stroke-linejoin:miter;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#777777;fill-opacity:1;fill-rule:nonzero;stroke:#777777;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans Light;-inkscape-font-specification:Open Sans Light"
        x="114.76841"
        y="426.36661"
        id="text3156"
@@ -727,10 +727,10 @@
          id="tspan3158"
          x="114.76841"
          y="426.36661"
-         style="font-style:normal;font-weight:normal;fill:#777777;fill-opacity:1;stroke:#777777;stroke-width:2.0000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;-inkscape-font-specification:Open Sans Light;font-size:39.99999873px;font-variant:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill-rule:nonzero;stroke-linecap:butt;stroke-linejoin:miter;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans Light">RE</tspan></text>
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#777777;fill-opacity:1;fill-rule:nonzero;stroke:#777777;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans Light;-inkscape-font-specification:Open Sans Light">DO</tspan></text>
     <g
        id="g3160"
-       transform="matrix(1.9490067,0,0,1.9490067,23.973023,376.11089)">
+       transform="matrix(0,-1.9490067,1.9490067,0,23.971074,448.33913)">
       <g
          id="g3162">
         <g
@@ -814,7 +814,7 @@
          id="tspan3196"
          sodipodi:role="line">FA</tspan></text>
     <g
-       transform="matrix(1.9490067,0,0,1.9490067,23.973023,376.11089)"
+       transform="matrix(1.9490067,0,0,-1.9490067,23.973023,448.34108)"
        id="g3198">
       <g
          id="g3200">
@@ -900,7 +900,7 @@
          style="font-style:normal;font-weight:normal;fill:#777777;fill-opacity:1;stroke:#777777;stroke-width:2.0000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;-inkscape-font-specification:Open Sans Light;font-size:39.99999873px;font-variant:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill-rule:nonzero;stroke-linecap:butt;stroke-linejoin:miter;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans Light">MI</tspan></text>
     <g
        id="g3236"
-       transform="matrix(1.9490067,0,0,1.9490067,23.973023,376.11089)">
+       transform="matrix(0,1.9490067,-1.9490067,0,96.201262,376.11284)">
       <g
          id="g3238">
         <g
@@ -970,180 +970,4 @@
        id="tspan3752"
        x="314.25"
        y="1306.26" /></text>
-  <g
-     id="g3815"
-     transform="translate(493.73404,-13.344161)">
-    <g
-       transform="matrix(3.402307,0,0,3.402307,266.06876,305.88387)"
-       id="g3544">
-      <rect
-         style="fill:#ffffff;stroke:#000000"
-         x="0"
-         y="180"
-         width="23"
-         height="120"
-         id="rect4" />
-      <rect
-         style="fill:#ffffff;stroke:#000000"
-         x="23"
-         y="180"
-         width="23"
-         height="120"
-         id="rect6" />
-      <rect
-         style="fill:#ffffff;stroke:#000000"
-         x="46"
-         y="180"
-         width="23"
-         height="120"
-         id="rect8" />
-      <rect
-         style="fill:#ffffff;stroke:#000000"
-         x="69"
-         y="180"
-         width="23"
-         height="120"
-         id="rect10" />
-      <rect
-         style="fill:#ffffff;stroke:#000000"
-         x="92"
-         y="180"
-         width="23"
-         height="120"
-         id="rect12" />
-      <rect
-         style="fill:#ffffff;stroke:#000000"
-         x="115"
-         y="180"
-         width="23"
-         height="120"
-         id="rect14" />
-      <rect
-         style="fill:#ffffff;stroke:#000000"
-         x="138"
-         y="180"
-         width="23"
-         height="120"
-         id="rect16" />
-      <rect
-         style="fill:#000000;stroke:#000000"
-         x="14.33333"
-         y="180"
-         width="13"
-         height="80"
-         id="rect18" />
-      <rect
-         style="fill:#000000;stroke:#000000"
-         x="41.66666"
-         y="180"
-         width="13"
-         height="80"
-         id="rect20" />
-      <rect
-         style="fill:#000000;stroke:#000000"
-         x="82.25"
-         y="180"
-         width="13"
-         height="80"
-         id="rect22" />
-      <rect
-         style="fill:#000000;stroke:#000000"
-         x="108.25"
-         y="180"
-         width="13"
-         height="80"
-         id="rect24" />
-      <rect
-         style="fill:#000000;stroke:#000000"
-         x="134.75"
-         y="180"
-         width="13"
-         height="80"
-         id="rect26" />
-    </g>
-    <text
-       sodipodi:linespacing="125%"
-       id="text3766"
-       y="1300.6173"
-       x="277.78745"
-       style="font-size:34.85554886px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#777777;fill-opacity:1;fill-rule:nonzero;stroke:#777777;stroke-width:1.74277639;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans Light;-inkscape-font-specification:Open Sans Light"
-       xml:space="preserve"><tspan
-         style="font-size:34.85554886px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#777777;fill-opacity:1;fill-rule:nonzero;stroke:#777777;stroke-width:1.74277639;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans Light;-inkscape-font-specification:Open Sans Light"
-         y="1300.6173"
-         x="277.78745"
-         id="tspan3768"
-         sodipodi:role="line">DO</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:34.85554886px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#777777;fill-opacity:1;fill-rule:nonzero;stroke:#777777;stroke-width:1.74277639;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans Light;-inkscape-font-specification:Open Sans Light"
-       x="360.52267"
-       y="1300.634"
-       id="text3791"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3793"
-         x="360.52267"
-         y="1300.634"
-         style="font-size:34.85554886px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#777777;fill-opacity:1;fill-rule:nonzero;stroke:#777777;stroke-width:1.74277639;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans Light;-inkscape-font-specification:Open Sans Light">RE</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text3795"
-       y="1300.634"
-       x="442.6622"
-       style="font-size:34.85554886px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#777777;fill-opacity:1;fill-rule:nonzero;stroke:#777777;stroke-width:1.74277639;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans Light;-inkscape-font-specification:Open Sans Light"
-       xml:space="preserve"><tspan
-         style="font-size:34.85554886px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#777777;fill-opacity:1;fill-rule:nonzero;stroke:#777777;stroke-width:1.74277639;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans Light;-inkscape-font-specification:Open Sans Light"
-         y="1300.634"
-         x="442.6622"
-         id="tspan3797"
-         sodipodi:role="line">MI</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:34.85554886px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#777777;fill-opacity:1;fill-rule:nonzero;stroke:#777777;stroke-width:1.74277639;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans Light;-inkscape-font-specification:Open Sans Light"
-       x="519.51721"
-       y="1300.634"
-       id="text3799"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3801"
-         x="519.51721"
-         y="1300.634"
-         style="font-size:34.85554886px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#777777;fill-opacity:1;fill-rule:nonzero;stroke:#777777;stroke-width:1.74277639;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans Light;-inkscape-font-specification:Open Sans Light">FA</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text3803"
-       y="1300.6173"
-       x="584.50128"
-       style="font-size:34.85554886px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#777777;fill-opacity:1;fill-rule:nonzero;stroke:#777777;stroke-width:1.74277639;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans Light;-inkscape-font-specification:Open Sans Light"
-       xml:space="preserve"><tspan
-         style="font-size:34.85554886px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#777777;fill-opacity:1;fill-rule:nonzero;stroke:#777777;stroke-width:1.74277639;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans Light;-inkscape-font-specification:Open Sans Light"
-         y="1300.6173"
-         x="584.50128"
-         id="tspan3805"
-         sodipodi:role="line">SOL</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:34.85554886px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#777777;fill-opacity:1;fill-rule:nonzero;stroke:#777777;stroke-width:1.74277639;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans Light;-inkscape-font-specification:Open Sans Light"
-       x="761.60443"
-       y="1300.6173"
-       id="text3807"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3809"
-         x="761.60443"
-         y="1300.6173"
-         style="font-size:34.85554886px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#777777;fill-opacity:1;fill-rule:nonzero;stroke:#777777;stroke-width:1.74277639;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans Light;-inkscape-font-specification:Open Sans Light">SI</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text3811"
-       y="1300.634"
-       x="675.04834"
-       style="font-size:34.85554886px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#777777;fill-opacity:1;fill-rule:nonzero;stroke:#777777;stroke-width:1.74277639;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans Light;-inkscape-font-specification:Open Sans Light"
-       xml:space="preserve"><tspan
-         style="font-size:34.85554886px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#777777;fill-opacity:1;fill-rule:nonzero;stroke:#777777;stroke-width:1.74277639;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans Light;-inkscape-font-specification:Open Sans Light"
-         y="1300.634"
-         x="675.04834"
-         id="tspan3813"
-         sodipodi:role="line">LA</tspan></text>
-  </g>
 </svg>
