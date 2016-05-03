@@ -18,3 +18,5 @@ Quehaceres
 
 * imagenes con los diferentes puertos y como se conectan
 * guía de armado con fotos o video
+
+**Donar Bitcoin:** 19qkh5dNVxL58o5hh6hLsK64PwEtEXVHXs
