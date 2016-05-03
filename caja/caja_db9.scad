@@ -113,13 +113,7 @@ module tapa () {
         }
             }
       
-        // db9
-        minkowski () {
-            translate([0,24,0])
-            cube([20-4,20,8],center=true);  
-           rotate([90,0,0]) 
-            cylinder(d=4, h=1);
-        }
+
         // cable
         minkowski () {
             translate([0,-24,-6])

@@ -1,0 +1,39 @@
+# Pensado para usarse con cyclone-pcb y fzz2gcode
+#
+# copyright - Ernesto Bazzano - Liberado bajo GPLv3+
+#
+dpi=1000		# definicion
+metric=true		# trabaja en milimetros
+metricoutput=true	# trabaja en milimetros
+mirror-absolute=false	# no espejado
+optimise=true		# si mejora los caminos
+nog81=true		# hace el gcode mas limpio y estandarizado
+zchange=5.0000 		# distancia de Z en la que cambia herramientas, no sirve en la cyclone
+zero-start=false	# inicia el cero donde decia fritzing
+zsafe=5.0000		# distancia segura para mover la fresadora
+cutter-diameter=0.52 	# http://diwo.bq.com/parametros-de-fresado-para-cyclone-2/
+outline-width=0.15	# (0.15) este es el diametro de la herramienta http://diwo.bq.com/parametros-de-fresado-para-cyclone-2/
+# -------   caminos ----------------
+mill-feed=100		# velocidad a la que hace los caminos
+mill-speed=20000	# esto no sirve para la cyclone
+offset=1		# cuanto mas chico mas presiso (+2.5 visolate)
+zwork=-0.625		# distancia en la que corta los caminos (-0.33 funciona bien)
+extra-passes=0		# si pasa cuando trabaja en zwork
+fill-outline=true	# sin esto no hacer los caminos
+# ------- perforaciones -----------
+drill-feed=30		# no sirve en la cyclone
+drill-front=false	# usa las coordenadas de la parte frontal para perforar
+drill-speed=20000		# velocidad en la que baja el eje
+zdrill=-2.8		# perforaciones
+milldrill=false		# si hacer la perforaciones como caminos?
+onedrill=false		# agujerea con una sola mecha
+#---------puentes---------------
+bridges=10.0000		# que largo tienen los puentes
+bridgesnum=0		# cuentos puentes de hacen
+zbridges=-2.5		# profundidad de la pasada
+# -----------cortes---------------------
+zcut=-2		# distancia en la que se corta la placa	(2 es exactamente el ancho de la placa)
+cut-feed=50		# velocidad cuando hacer el corte
+cut-speed=20000		# no se usa en la cyclone
+cut-infeed=.4		# distancia entre cada pasada (profundidad maxima que cada pasada segun http://diwo.bq.com/parametros-de-fresado-para-cyclone-2/)
+cut-front=true		# el corte esta en el frente de la placa
