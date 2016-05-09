@@ -3,6 +3,7 @@ Adaptadores de Joystick antiguos a USB para Attiny85
 Requiere
 ========
 
+* 1 Attiny85
 * 2 Diodos zener 3V6
 * 1 Resistencia 1,5KΩ 1/4W 
 * 2 Resistencia 68Ω 1/4W
