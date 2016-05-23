@@ -1,7 +1,7 @@
 /*
     tamaño de la caja interna y borde
 */
-X=50;
+X=60;
 Y=48;
 Z=13;
 E=4;
@@ -20,9 +20,10 @@ minkowski() {
    cube([X-8,Y-8,Z],center=true);
    cylinder(d=8, h=1);
 }
+// db9
 minkowski () {
     translate([0,24,1])
-    cube([20-4,20-4,13-3],center=true);
+    cube([30-4,30-4,13-3],center=true);
    rotate([90,0,0]) 
     cylinder(d=4, h=1);
 }
@@ -114,9 +115,10 @@ module tapa () {
         }
             }
       
+            // db15
 minkowski () {
     translate([0,24,1])
-    cube([20-4,20-4,13-3],center=true);
+    cube([30-4,30-4,13-3],center=true);
    rotate([90,0,0]) 
     cylinder(d=4, h=1);
 }
