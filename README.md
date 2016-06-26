@@ -24,4 +24,6 @@ Quehaceres
 
 -- 
 
-**Donar Bitcoin:** 19qkh5dNVxL58o5hh6hLsK64PwEtEXVHXs
+**Donar Bitcoin:** 19qkh5dNVxL58o5hh6hLsK64PwEtEXVHXs    
+**PayPal:** [Ayudanos a mejorar desde $1](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JMFARRBCYTFG8)
+
