@@ -16,8 +16,10 @@ Requiere
 
 <a href="https://maquinaslibres.noblogs.org/joystick-retros/">¡Comprar uno!</a>
 
+* [Fotos del armado](https://maquinaslibres.noblogs.org/kit-de-armado-de-digijoystick/)
+
 Conexiones del DB9 de sega
-==========================
+--------------------------
 
 ![DB9](img/db9_sega.png)
 
@@ -25,7 +27,6 @@ Quehaceres
 ==========
 
 * imagenes con los diferentes puertos y como se conectan
-* guía de armado con fotos o video
 
 -- 
 
