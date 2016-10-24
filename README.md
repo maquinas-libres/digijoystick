@@ -16,6 +16,11 @@ Requiere
 
 <a href="https://maquinaslibres.noblogs.org/joystick-retros/">¡Comprar uno!</a>
 
+Conexiones del DB9 de sega
+==========================
+
+![DB9](img/db9_sega.png)
+
 Quehaceres
 ==========
 
