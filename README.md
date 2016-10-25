@@ -23,6 +23,11 @@ Conexiones del DB9 de sega
 
 ![DB9](img/db9_sega.png)
 
+Conexiones del DB9 de nes, famicom, familygame
+--------------------------
+
+![DB9](img/db9_nes.png)
+
 Quehaceres
 ==========
 
