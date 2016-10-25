@@ -1,6 +1,7 @@
 Adaptadores de Joystick antiguos a USB con Attiny85
+===================================================
 
-![Adaptador de Joystick sega o family game](img/joystick_sega_funcional_pcb.png)
+![Adaptador de Joystick sega o family game](https://maquinaslibres.noblogs.org/files/2015/11/joystick.gif)
 
 Requiere
 ========
