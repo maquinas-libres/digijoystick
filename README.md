@@ -28,11 +28,6 @@ Conexiones del DB9 de nes, famicom, familygame
 
 ![DB9](img/db9_nes.png)
 
-Quehaceres
-==========
-
-* imagenes con los diferentes puertos y como se conectan
-
 -- 
 
 **Donar Bitcoin:** 19qkh5dNVxL58o5hh6hLsK64PwEtEXVHXs    
