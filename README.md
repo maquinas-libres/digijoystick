@@ -1,10 +1,10 @@
 Adaptadores de Joystick antiguos a USB con Attiny85
 ===================================================
 
-<img src="http://maquinaslibres.noblogs.org/files/2015/11/joystick.gif" />
+* [Fotos del armado](https://maquinaslibres.noblogs.org/kit-de-armado-de-digijoystick/)
 
 Requiere
-========
+--------
 
 * 1 Attiny85
 * 2 Diodos zener 3V6
@@ -17,7 +17,6 @@ Requiere
 
 <a href="https://maquinaslibres.noblogs.org/joystick-retros/">¡Comprar uno!</a>
 
-* [Fotos del armado](https://maquinaslibres.noblogs.org/kit-de-armado-de-digijoystick/)
 
 Conexiones del DB9 de sega
 --------------------------
