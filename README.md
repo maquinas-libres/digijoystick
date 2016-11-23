@@ -23,7 +23,7 @@ Conexiones del DB9 de sega
 
 ![DB9](img/db9_sega.png)
 
-Conexiones del DB9 de nes, famicom, familygame
+Conexiones del DB9 de nes, famicom, familygame y Super Nintendo (SNES)
 --------------------------
 
 ![DB9](img/db9_nes.png)
